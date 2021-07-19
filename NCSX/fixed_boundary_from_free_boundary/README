@@ -1,0 +1,1 @@
+This configuration is obtained by taking the boundary surface from the free_boundary_from_vmec_wiki configuration, and using it as the boundary for a fixed-boundary calculation.
